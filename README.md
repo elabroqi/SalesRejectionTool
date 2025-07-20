@@ -26,7 +26,7 @@ SalesObjectionTool/
 │
 ├── server/                  # Express backend with Gemini API
 │   ├── server.js
-│   ├── .env                 # Preloaded with Gemini API key
+│   ├── .env                 # Gemini API key
 │   └── package.json
 │
 └── node_modules/            # Root-level dependencies
