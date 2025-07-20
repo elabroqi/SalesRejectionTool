@@ -16,8 +16,22 @@ This is an Express.js server that uses Google's Gemini 2.5 Flash model to genera
 
 ## Project Structure
 
-<pre> SalesObjectionTool/ ├── client/ # React frontend with Vite + Tailwind │ ├── public/ │ ├── src/ │ ├── package.json │ └── vite.config.js │ ├── server/ # Express backend with Gemini API │ ├── server.js │ ├── .env # Preloaded with Gemini API key │ └── package.json │ └── node_modules/ # Root-level dependencies </pre>
+```
+SalesObjectionTool/
+├── client/                  # React frontend with Vite + Tailwind
+│   ├── public/
+│   ├── src/
+│   ├── package.json
+│   └── vite.config.js
+│
+├── server/                  # Express backend with Gemini API
+│   ├── server.js
+│   ├── .env                 # Preloaded with Gemini API key
+│   └── package.json
+│
+└── node_modules/            # Root-level dependencies
 
+```
 
 ## Setup Instructions
 
