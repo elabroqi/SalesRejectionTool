@@ -12,11 +12,11 @@ This is an Express.js server that uses Google's Gemini 2.5 Flash model to genera
 
 ## Features
 
-- 🎯 Instant Objection Handling: Tailored AI responses for common customer objections
-- 💬 Greeting Recognition: Smart hardcoded replies to basic greetings
-- 🧠 Sales Psychology: Techniques like Urgency, Scarcity, and Assumptive Close
-- 🔁 Live Call Simulation: Mimics a real-time call dialogue
-- ✅ Easy-to-integrate REST API for frontend clients
+- Instant Objection Handling: Tailored AI responses for common customer objections
+- Greeting Recognition: Smart hardcoded replies to basic greetings
+- Sales Psychology: Techniques like Urgency, Scarcity, and Assumptive Close
+- Live Call Simulation: Mimics a real-time call dialogue
+- Easy-to-integrate REST API for frontend clients
 
 ---
 
