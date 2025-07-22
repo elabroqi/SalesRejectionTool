@@ -4,12 +4,18 @@ This is an Express.js server that uses Google's Gemini 2.5 Flash model to genera
 
 ---
 
+## How It Was Built
+
+- ✅ Frontend: React + Vite + Tailwind CSS
+- ✅ Backend: Node.js with Express
+- ✅ AI Engine: Google Gemini 2.5 Flash
+
 ## Features
 
-- ✅ Real-time AI-generated responses for sales objections
-- ✅ Handles basic greetings like "Hello" or "Who are you?" with quick hardcoded replies
-- ✅ Incorporates proven sales techniques (Urgency, Scarcity, Assumptive Close, etc.)
-- ✅ Designed to simulate a real live call environment
+- 🎯 Instant Objection Handling: Tailored AI responses for common customer objections
+- 💬 Greeting Recognition: Smart hardcoded replies to basic greetings
+- 🧠 Sales Psychology: Techniques like Urgency, Scarcity, and Assumptive Close
+- 🔁 Live Call Simulation: Mimics a real-time call dialogue
 - ✅ Easy-to-integrate REST API for frontend clients
 
 ---
@@ -57,3 +63,13 @@ cd ../client
 npm install
 npm start
 ```
+
+### Challenges
+
+- Structuring prompt inputs to consistently yield persuasive replies
+
+## What's Next
+
+- Support for multiple objection categories per industry
+- User-configurable tone settings
+- Database logging client info and transcripts
